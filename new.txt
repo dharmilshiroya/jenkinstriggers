@@ -1,3 +1,10 @@
 Hello
 jenkins pull request trigger
 
+it will now work for all the push
+
+now we will try for the push and pr request webhook triggeretion
+
+now only for the pr request
+
+now for the pr requesr 
