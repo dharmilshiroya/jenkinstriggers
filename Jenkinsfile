@@ -7,7 +7,6 @@ pipeline{
         stages{
                 stage('Build'){
                         steps{
-                                sh 'exit 1'
                                 sh 'echo "Build Completed."'
                         }
                 }
